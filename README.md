@@ -104,4 +104,3 @@ student-performance-dashboard/
 ## Author
 
 **Ahana Ganguli**
-
